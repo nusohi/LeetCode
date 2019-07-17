@@ -1,10 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "000.Two Sum/test.h"
+#include "2.Add Two Numbers/test.h"
 
 
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	T2();
+
+	std::cin.get();
 }
