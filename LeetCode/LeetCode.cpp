@@ -1,12 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "3.Longest Substring Without Repeating Characters/test.h"
+#include "4.Median of Two Sorted Arrays/test.h"
 
 
 
 int main()
 {
-	T3();
+	T4();
 
 	std::cin.get();
 }
