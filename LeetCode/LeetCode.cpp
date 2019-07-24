@@ -1,12 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "4.Median of Two Sorted Arrays/test.h"
+#include "5.Longest Palindromic Substring/test.h"
 
 
 
 int main()
 {
-	T4();
+	T5();
 
 	std::cin.get();
 }
