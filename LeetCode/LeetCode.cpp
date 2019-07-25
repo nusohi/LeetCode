@@ -1,12 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "5.Longest Palindromic Substring/test.h"
+#include "10.Regular Expression Matching/test.h"
 
 
 
 int main()
 {
-	T5();
+	T10();
 
 	std::cin.get();
 }
