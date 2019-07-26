@@ -8,5 +8,6 @@
 |  4   | [寻找两个有序数组的中位数 Median of Two Sorted Arrays](LeetCode/0004.Median%20of%20Two%20Sorted%20Arrays) | Hard       |
 |  5   | [最长回文子串 Longest Palindromic Substring](LeetCode/0005.Longest%20Palindromic%20Substring) | Medium     |
 |  10  | [正则表达式匹配 Regular Expression Matching](LeetCode/0010.Regular%20Expression%20Matching) | Hard       |
+|  23  | [合并K个排序链表 Merge k Sorted Lists](LeetCode/0023.Merge%20k%20Sorted%20Lists) | Hard       |
 |  79  | [单词搜索 Word Search](LeetCode/0079.Word%20Search)          | Medium     |
 
