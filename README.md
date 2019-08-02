@@ -13,4 +13,5 @@
 |  70  | [爬楼梯 Climbing Stairs](LeetCode/0070.Climbing%20Stairs)    | Easy       |
 |  79  | [单词搜索 Word Search](LeetCode/0079.Word%20Search)          | Medium     |
 |  91  | [解码方法 Decode Ways](LeetCode/0091.Decode%20Ways)          | Medium     |
+|  98  | [验证二叉搜索树 Validate Binary Search Tree](LeetCode/0098.Validate%20Binary%20Search%20Tree) | Medium     |
 
