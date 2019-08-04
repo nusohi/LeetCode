@@ -1,12 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "0079.Word Search/test.h"
+#include "0033.Search in Rotated Sorted Array/test.h"
 
 
 
 int main()
 {
-	T79();
+	T33();
 
 	std::cin.get();
 }
