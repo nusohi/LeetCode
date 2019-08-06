@@ -1,12 +1,12 @@
 ﻿#include "pch.h"
 #include <iostream>
-#include "0033.Search in Rotated Sorted Array/test.h"
+#include "0054.Spiral Matrix/test.h"
 
 
 
 int main()
 {
-	T33();
+	T54();
 
 	std::cin.get();
 }
