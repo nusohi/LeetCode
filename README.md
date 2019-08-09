@@ -20,5 +20,6 @@
 |  79  | [单词搜索 Word Search](LeetCode/0079.Word%20Search)          | Medium     |
 |  91  | [解码方法 Decode Ways](LeetCode/0091.Decode%20Ways)          | Medium     |
 |  98  | [验证二叉搜索树 Validate Binary Search Tree](LeetCode/0098.Validate%20Binary%20Search%20Tree) | Medium     |
+| 136  | [只出现一次的数字 Single Number](LeetCode/0136.Single%20Number) | Easy       |
 | 146  | [LRU缓存机制 LRU Cache](LeetCode/0146.LRU%20Cache)           | Medium     |
 
