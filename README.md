@@ -7,7 +7,7 @@
 |  3   | [无重复字符的最长子串 Longest Substring Without Repeating Characters](LeetCode/0003.Longest%20Substring%20Without%20Repeating%20Characters) | Medium     |
 |  4   | [寻找两个有序数组的中位数 Median of Two Sorted Arrays](LeetCode/0004.Median%20of%20Two%20Sorted%20Arrays) | Hard       |
 |  5   | [最长回文子串 Longest Palindromic Substring](LeetCode/0005.Longest%20Palindromic%20Substring) | Medium     |
-|  8   | [String to Integer (atoi)](LeetCode/0008.String%20to%20Integer%20(atoi)) | Medium     |
+|  8   | [字符串转换整数 (atoi) String to Integer (atoi)](LeetCode/0008.String%20to%20Integer%20(atoi)) | Medium     |
 |  9   | [回文数 Palindrome Number](LeetCode/0009.Palindrome%20Number) | Easy       |
 |  10  | [正则表达式匹配 Regular Expression Matching](LeetCode/0010.Regular%20Expression%20Matching) | Hard       |
 |  11  | [盛最多水的容器 Container With Most Water](LeetCode/0011.Container%20With%20Most%20Water) | Medium     |
@@ -22,6 +22,7 @@
 |  79  | [单词搜索 Word Search](LeetCode/0079.Word%20Search)          | Medium     |
 |  91  | [解码方法 Decode Ways](LeetCode/0091.Decode%20Ways)          | Medium     |
 |  98  | [验证二叉搜索树 Validate Binary Search Tree](LeetCode/0098.Validate%20Binary%20Search%20Tree) | Medium     |
+| 105  | [从前序与中序遍历序列构造二叉树 Construct Binary Tree from Preorder and Inorder Traversal](LeetCode/0105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | Medium     |
 | 136  | [只出现一次的数字 Single Number](LeetCode/0136.Single%20Number) | Easy       |
 | 146  | [LRU缓存机制 LRU Cache](LeetCode/0146.LRU%20Cache)           | Medium     |
 | 215  | [数组中的第K个最大元素 Kth Largest Element in an Array](LeetCode/0215.Kth%20Largest%20Element%20in%20an%20Array) | Medium     |
