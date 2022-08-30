@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 
@@ -14,42 +14,42 @@ struct ListNode {
 class Solution {
 public:
 	ListNode* reverseKGroup(ListNode* head, int k) {
-		// ²»Ðè´¦ÀíµÄÇé¿ö£º 1.k==1 2.Ã»ÓÐ½Úµã
+		// ä¸éœ€å¤„ç†çš„æƒ…å†µï¼š 1.k==1 2.æ²¡æœ‰èŠ‚ç‚¹
 		if (k == 1 || head == NULL) return head;
 
-		// Éú³É fake_head ÒÔ±ãÓÚÖ´ÐÐ
+		// ç”Ÿæˆ fake_head ä»¥ä¾¿äºŽæ‰§è¡Œ
 		ListNode* fake_head = new ListNode(0);
 		fake_head->next = head;
 
-		// ABC Èý¶ÎµÄÍ·Î²
+		// ABC ä¸‰æ®µçš„å¤´å°¾
 		ListNode* temp,
 			* A_tail = NULL,
 			* B_head = NULL,
-			* B_tail = fake_head,	// ³õÊ¼×´Ì¬£º¼Ù¶¨ fake_head Ç°ÃæÎªÉÏÒ»´ÎÑ­»·µÄ B ¶Î
+			* B_tail = fake_head,	// åˆå§‹çŠ¶æ€ï¼šå‡å®š fake_head å‰é¢ä¸ºä¸Šä¸€æ¬¡å¾ªçŽ¯çš„ B æ®µ
 			* C_head = NULL;
 		int count;
 
 		do {
-			// ¸ù¾ÝÉÏÒ»ÂÖµÄ B_tail ³õÊ¼»¯
+			// æ ¹æ®ä¸Šä¸€è½®çš„ B_tail åˆå§‹åŒ–
 			A_tail = B_tail;
 			B_head = B_tail->next;
 			B_tail = B_head;
 
-			count = 0;	// ¼ÇÂ¼ B ¶Î½ÚµãÊý
+			count = 0;	// è®°å½• B æ®µèŠ‚ç‚¹æ•°
 			while (++count < k) {
 				B_tail = B_tail->next;
-				// Ê£Óà½Úµã²»¹»ÁË
+				// å‰©ä½™èŠ‚ç‚¹ä¸å¤Ÿäº†
 				if (B_tail == NULL) {
 					break;
 				}
 			}
-			// count != k Ê±Ê£Óà²»Ðè·´×ª
+			// count != k æ—¶å‰©ä½™ä¸éœ€åè½¬
 			if (count != k) {
 				return fake_head->next;
 			}
 
 			C_head = B_tail->next;
-			// ·Ö
+			// åˆ†
 			B_tail->next = NULL;
 			A_tail->next = NULL;
 
@@ -57,7 +57,7 @@ public:
 			B_tail = B_head;
 			B_head = temp;
 
-			// ºÏ
+			// åˆ
 			A_tail->next = B_head;
 			B_tail->next = C_head;
 		} while (C_head != NULL);
