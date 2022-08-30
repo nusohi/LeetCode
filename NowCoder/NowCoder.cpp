@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include "BM1.反转链表/solution.h"
+#include "BM3.链表中的节点每k个一组翻转/test.h"
 
 
 int main()
 {
-
+	TBM3();
 	std::cin.get();
 }
