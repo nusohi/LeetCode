@@ -38,3 +38,4 @@
 | BM1  | [反转链表](NowCoder/BM1.反转链表)                            | Easy       |
 | BM2  | [链表内指定区间反转](NowCoder/BM2.链表内指定区间反转)        | Medium     |
 | BM3  | [链表中的节点每k个一组翻转](NowCoder/BM3.链表中的节点每k个一组翻转) | Medium     |
+| BM4  | [合并两个排序的链表](NowCoder/BM4.合并两个排序的链表)        | Easy       |
