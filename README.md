@@ -40,3 +40,4 @@
 | BM3  | [链表中的节点每k个一组翻转](NowCoder/BM3.链表中的节点每k个一组翻转) | Medium     |
 | BM4  | [合并两个排序的链表](NowCoder/BM4.合并两个排序的链表)        | Easy       |
 | BM5  | [合并k个已排序的链表](NowCoder/BM5.合并k个已排序的链表)      | Hard       |
+| BM6  | [判断链表中是否有环](NowCoder/BM6.判断链表中是否有环)        | Easy       |
