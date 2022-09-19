@@ -31,7 +31,7 @@
 
 # NowCoder
 
-> BM: 面试必刷TOP101
+> BM: 面试必刷TOP101 [link](https://www.nowcoder.com/exam/oj)
 
 | NO.  | Title                                                        | Difficulty |
 | :--: | :----------------------------------------------------------- | :--------- |
@@ -41,3 +41,4 @@
 | BM4  | [合并两个排序的链表](NowCoder/BM4.合并两个排序的链表)        | Easy       |
 | BM5  | [合并k个已排序的链表](NowCoder/BM5.合并k个已排序的链表)      | Hard       |
 | BM6  | [判断链表中是否有环](NowCoder/BM6.判断链表中是否有环)        | Easy       |
+| BM7  | [链表中环的入口结点](NowCoder/BM7.链表中环的入口结点)        | Medium     |
