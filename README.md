@@ -44,3 +44,4 @@
 | BM7  | [链表中环的入口结点](NowCoder/BM7.链表中环的入口结点)        | Medium     |
 | BM8  | [链表中倒数最后k个结点](NowCoder/BM8.链表中倒数最后k个结点)  | Easy       |
 | BM9  | [删除链表的倒数第n个节点](NowCoder/BM9.删除链表的倒数第n个节点) | Medium     |
+| BM10 | [两个链表的第一个公共结点](NowCoder/BM10.两个链表的第一个公共结点) | Easy       |
