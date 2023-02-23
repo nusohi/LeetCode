@@ -28,6 +28,7 @@
 | 215  | [数组中的第K个最大元素 Kth Largest Element in an Array](LeetCode/0215.Kth%20Largest%20Element%20in%20an%20Array) | Medium     |
 | 217  | [存在重复元素 Contains Duplicate](LeetCode/0217.Contains%20Duplicate) | Easy       |
 | 238  | [除自身以外数组的乘积 Product of Array Except Self](LeetCode/0238.Product%20of%20Array%20Except%20Self) | Medium     |
+| 754  | [到达终点数字 Reach a Number](LeetCode/0754.Reach%20a%20Number) | Medium     |
 
 # NowCoder
 
